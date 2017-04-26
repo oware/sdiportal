@@ -21,6 +21,5 @@ Create a new template based on the geonode example project.::
 
 .. note:: You should NOT use the name geonode for your project as it will conflict with the default geonode package name.
 
-Features
---------
+
 
