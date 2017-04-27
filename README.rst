@@ -1,7 +1,7 @@
 SDI-Portal
 ===========
 
-SDI-Portal is a custom GeoNode-2.6 project based on geonode-project.
+SDI-Portal is a GeoNode-2.6 customization based on geonode-project.
 
 Installation
 ------------
